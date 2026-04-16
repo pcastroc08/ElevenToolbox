@@ -7,4 +7,11 @@ Incluye un conjunto completo de utilidades para mejorar el rendimiento del siste
 
 Diseñada para ser rápida, modular y totalmente personalizable, ElevenToolbox permite aplicar tweaks de forma selectiva, cambiar entre tema claro/oscuro y automatizar tareas comunes de mantenimiento del sistema.
 ## ✨ Características principales
-  - et
+  - **Optimizador avanzado** con más de 30 tweaks organizados por categorías
+  - **Interfaz moderna** con tema claro/oscuro y controles visuales personalizados
+  - **Instalador de aplicaciones** basado en Winget con catálogo ampliado
+  - **Gestor de arranque** rediseñado con tarjetas visuales y acciones rápidas
+  - **Información del sistema** en tiempo real (CPU, RAM, GPU, red, disco, ...)
+  - **Activación de Windows por HWID**
+
+## Objetivo
