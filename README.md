@@ -36,7 +36,7 @@ Diseñada para ser rápida, modular y totalmente personalizable, ElevenToolbox p
   - **🔐 Activación de Windows por HWID**
       - Lanza el activador en una ventana separada
       - No modifica archivos internos del programa
-  - ** 🛡 Elevación Automática**
+  - **🛡 Elevación Automática**
       - El programa se reinicia como administrador si es necesario
 
 ## 🎯 Objetivo del proyecto
@@ -57,3 +57,5 @@ Puedes descargar la última versión desde la sección Releases del repositorio
 ElevenToolbox está en desarrollo activo
 Se añader mejoras, nuevas aplicaciones y optimizaciones de forma continua
 ##  Contribuciones
+Cualquier sugerencia, mejora o reporte de errores es bienvenida
+Puedes abrir un Issue o enviar un Pull Request
