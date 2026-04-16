@@ -11,12 +11,12 @@ Diseñada para ser rápida, modular y totalmente personalizable, ElevenToolbox p
   - **⚡Optimizador avanzado**
       - Más de 30 tweaks organizados por categorías
       - Ajustes de rendimiento, privacidad, servicios, red, energía, y más
-  - **🎨Interfaz moderna**
+  - **🎨 Interfaz moderna**
       - Tema claro y oscuro automático según Windows
       - Cambio de tema manual con un botón
       - Diseño limpio, minimalista y fácil de usar
       - Scroll suave, paneles personalizados y categorías claras
-  - **📦Instalador de aplicaciones**
+  - **📦 Instalador de aplicaciones**
     - Amplio catálogo con:
       - Navegadores
       - Utilidades
@@ -27,19 +27,19 @@ Diseñada para ser rápida, modular y totalmente personalizable, ElevenToolbox p
       - Documentos
       - Y más
     - Instalación silenciosa con un clic
-  - **🚀Gestor de arranque**
+  - **🚀 Gestor de arranque**
       - Lista completa de programas que inician con Windows
       - Botón para deshabilitar cada elemento
-  - **🖥Información del sistema**
+  - **🖥 Información del sistema**
       - Datos en tiempo real de CPU, RAM, GPU, red y almacenamiento
       - Información clara y accesible
-  - **Activación de Windows por HWID**
+  - **🔐 Activación de Windows por HWID**
       - Lanza el activador en una ventana separada
       - No modifica archivos internos del programa
-  - **Elevación Automática**
+  - ** 🛡 Elevación Automática**
       - El programa se reinicia como administrador si es necesario
 
-## Objetivo del proyecto
+## 🎯 Objetivo del proyecto
 ElevenToolbox nace con la idea de ofrecer una herramienta rápida, segura y visualmente atractiva para cualquier usuario que quiera:
   - Mejorar el rendimiento de Windows 11
   - Reducir procesos innecesarios
@@ -47,6 +47,13 @@ ElevenToolbox nace con la idea de ofrecer una herramienta rápida, segura y visu
   - Personalizar su sistema sin complicaciones
   - Automatizar tareas de mantenimiento
 Todo ello sin scripts confusos, sin comandos manuales y sin riesgo de romper el sistema.
-## Descarga
+## 📥 Descarga
 Puedes descargar la última versión desde la sección Releases del repositorio
-## Requisitos
+## 🛠 Requisitos
+  - Windows 11
+  - Powershell 5.1 o superior
+  - Permisos de administrador
+## 📌 Estado del proyecto
+ElevenToolbox está en desarrollo activo
+Se añader mejoras, nuevas aplicaciones y optimizaciones de forma continua
+##  Contribuciones
