@@ -56,6 +56,6 @@ Puedes descargar la última versión desde la sección Releases del repositorio
 ## 📌 Estado del proyecto
 ElevenToolbox está en desarrollo activo
 Se añader mejoras, nuevas aplicaciones y optimizaciones de forma continua
-##  Contribuciones
+## ❤️ Contribuciones
 Cualquier sugerencia, mejora o reporte de errores es bienvenida
 Puedes abrir un Issue o enviar un Pull Request
