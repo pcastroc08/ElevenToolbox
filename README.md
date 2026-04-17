@@ -6,7 +6,7 @@ Incluye utilidades avanzadas para optimizar el sistema, gestionar servicios, con
 ---
 
 ## 📸 Capturas de pantalla
-- `assets/ventana-principal.png`  
+![screen-install](https://raw.githubusercontent.com/pcastroc08/ElevenToolbox/main/assets/ventana-principal.png)
 - `img/apps.png`  
 - `img/arranque.png`  
 - `img/info.png`  
