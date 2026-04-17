@@ -166,10 +166,3 @@ No está diseñado para ello, pero algunos módulos podrían funcionar.
 Cualquier sugerencia, mejora o reporte de errores es bienvenida.  
 Puedes abrir un **Issue** o enviar un **Pull Request**.
 
----
-
-## 📜 Licencia
-
-Este proyecto se distribuye bajo licencia **MIT**.  
-Si necesitas el archivo `LICENSE`, puedo generarlo.
-
